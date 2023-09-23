@@ -15,7 +15,7 @@ barclays.pdf: This PDF file may contain ESG data or reports specific to Barclays
 
 jpmc.pdf: Similar to "barclays.pdf," this PDF file contains ESG data or reports specific to JPMorgan Chase.
 
-requirements.txt: This file lists the Python packages and their versions required for your project. It's commonly used for specifying dependencies when setting up the project environment.
+requirements.txt: This file lists the Python packages and their versions required for the project. used for specifying dependencies when setting up the project environment.
 
 score.py: This Python script is related to ESG score prediction model. It  contains code for training, fine-tuning, or using the model to predict ESG scores based on the provided data.
 
