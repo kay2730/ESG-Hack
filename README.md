@@ -3,6 +3,7 @@
 LINK FOR DEMO VIDEO OF UI- https://drive.google.com/file/d/1sPc3t0phyYmORVQtiWXKg_WYt74Paa7L/view?usp=drive_link
 
 Overview
+
 The ESG Analysis Solution is a comprehensive tool for Environmental, Social, and Governance (ESG) analysis, providing accurate ESG score predictions, actionable
 recommendations, and an interactive chatbot interface. This repository contains the source code and resources for implementing the solution.
 
